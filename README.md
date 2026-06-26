@@ -1,6 +1,7 @@
 # Image-to-bin-converter
 
 Converts images to bin duh.
+
 I wanted a way to convert PNGs to raw bin data to use in switch homebrew so made ts script.
 
 ## Requirements
